@@ -7,69 +7,114 @@ const snapshots = [
   {
     image: "assets/1.jpg",
     title: "",
-    caption: "One of my favorite simple dates, because I was with you."
+    caption: "Batangass visittt hehehe (mabait pa)"
   },
   {
     image: "assets/2.jpg",
     title: "",
-    caption: "Everything looked softer that day, maybe because you were there."
+    caption: "SM naaa (hindi na mabait)"
   },
   {
     image: "assets/3.jpg",
     title: "",
-    caption: "A little memory from one of our happiest moments this month."
+    caption: ""
   },
   {
     image: "assets/4.jpg",
     title: "",
-    caption: "The kind of calm and happy moment I always want to remember."
+    caption: "Breaktime yung photobooth, DIY na lang hahaha"
   },
     {
     image: "assets/5.jpg",
     title: "",
-    caption: "One of my favorite simple dates, because I was with you."
+    caption: ""
   },
   {
     image: "assets/6.jpg",
     title: "",
-    caption: "Everything looked softer that day, maybe because you were there."
+    caption: "Hmmmm san kayaa toooo"
   },
   {
     image: "assets/7.jpg",
     title: "",
-    caption: "A little memory from one of our happiest moments this month."
+    caption: "Hmmmmm ano kaya next na nangyariii"
   },
   {
     image: "assets/8.jpg",
     title: "",
-    caption: "The kind of calm and happy moment I always want to remember."
+    caption: "Naghahanap ng foods pero my isang busong na agad hehehe(me)"
+  },
+    {
+    image: "assets/9.jpg",
+    title: "",
+    caption: ""
+  },
+  {
+    image: "assets/10.jpg",
+    title: "",
+    caption: "Shawarmersss sarappp (both) hehehe"
+  },
+  {
+    image: "assets/11.jpg",
+    title: "",
+    caption: "Padreee Burgoss visittt (na-miss kooo tooo)"
+  },
+  {
+    image: "assets/12.jpg",
+    title: "",
+    caption: ""
+  },
+    {
+    image: "assets/13.jpg",
+    title: "",
+    caption: ""
+  },
+  {
+    image: "assets/14.jpg",
+    title: "",
+    caption: ""
+  },
+  {
+    image: "assets/15.jpg",
+    title: "",
+    caption: "Badinggg"
+  },
+  {
+    image: "assets/16.jpg",
+    title: "",
+    caption: "Badinggg(2)"
+  },
+    {
+    image: "assets/17.jpg",
+    title: "",
+    caption: ""
   }
 ];
 
 const reminders = [
   {
     title: "Eat on time",
-    text: "Please don't skip meals, babi. Your tummy deserves love too."
+    text: "Lessen ang hotdogg hahahaha. Kahitt egg naaa langgg siguroo. Ako na lang bahala sa hotdog mo hehehe"
   },
   {
-    title: "Drink water",
-    text: "Take little sips throughout the day and stay refreshed for me."
+    title: "You're Prettyyy",
+    text: "No need to remind youu namannn, araw-araww naa yannn hehehehe"
   },
   {
-    title: "Rest well",
-    text: "You don't always have to be strong. Rest is also productive."
+    title: "Rest well babii",
+    text: "Rest is also productive, wag masyadooo magpaka-stress. Chill chill langg hahaha"
   },
   {
-    title: "Be gentle with yourself",
-    text: "You're doing your best, and I am already proud of you."
+    title: "I'll always bee heree",
+    text: "When youu need something, just say a word babii ah. Sabihinn mooo lahatt, kahitt anoo talagaa"
   },
   {
-    title: "Smile a little",
-    text: "Even a tiny smile looks so cute on you, especially on hard days."
+    title: "Alwayss wear your prettyy smilee",
+    text: "Para di ka naaa mukhang paiyakk daw hahahaha. Cuteee moo kayaa pag nag-ssmileee loveee hehehe"
   },
   {
     title: "Remember I'm here",
-    text: "No matter what kind of day it is, you always have me."
+    text: "Kahit anong mamngyari, dito lang ako lagi sa tabii mooo"
   }
 ];
 
